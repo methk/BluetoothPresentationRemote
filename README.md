@@ -11,4 +11,4 @@ This server has been developed and tested on Debian GNU/Linux 10 (Buster).
 ## Client
 `./Client` folder contains an Android Studio project with a simple Android app that connects to the server and sends commands to scroll pages down or up.
 
-![App screenshot](https://...)
+<img src="https://github.com/methk/BluetoothPresentationRemote/blob/master/res/screenshot.jpg" width="20%">
